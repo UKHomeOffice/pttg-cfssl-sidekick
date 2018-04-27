@@ -1,4 +1,4 @@
-FROM quay.io/ukhomeofficedigital/cfssl-sidekick:v0.0.2
+FROM quay.io/ukhomeofficedigital/cfssl-sidekick:v0.0.5
 
 LABEL maintainer="Tim.Hammonds@digital.homeoffice.gov.uk"
 
